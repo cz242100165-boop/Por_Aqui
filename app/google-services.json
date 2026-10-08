@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704833308892",
+    "project_id": "poraqui-e2726",
+    "storage_bucket": "poraqui-e2726.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704833308892:android:d289b0141af339a6e20c19",
+        "android_client_info": {
+          "package_name": "com.uma.poraqui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdYQmzW031jrhP5C4ZAicByPkjkCguotQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

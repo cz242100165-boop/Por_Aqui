@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DCEBDD">
+
+    <Button
+        android:id="@+id/btnVolver"
+        android:layout_width="60dp"
+        android:layout_height="55dp"
+        android:layout_margin="15dp"
+        android:text="‹" />
+
+    <TextView
+        android:layout_width="296dp"
+        android:layout_height="60dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/bg_card"
+        android:gravity="center_vertical"
+        android:padding="18dp"
+        android:text="📍  Negocios cerca de Sonsonate"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="🗺️ Mapa de maqueta\n\nEn la aplicación final se conectará con Google Maps."
+        android:textSize="15sp"
+        android:gravity="center"
+        android:background="#FFF9CC"
+        android:layout_gravity="bottom"
+        android:layout_margin="20dp"/>
+
+</FrameLayout>
